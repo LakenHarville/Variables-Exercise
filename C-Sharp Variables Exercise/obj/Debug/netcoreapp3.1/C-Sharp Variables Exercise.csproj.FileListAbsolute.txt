@@ -1,0 +1,13 @@
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\bin\Debug\netcoreapp3.1\C-Sharp Variables Exercise.exe
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\bin\Debug\netcoreapp3.1\C-Sharp Variables Exercise.deps.json
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\bin\Debug\netcoreapp3.1\C-Sharp Variables Exercise.runtimeconfig.json
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\bin\Debug\netcoreapp3.1\C-Sharp Variables Exercise.runtimeconfig.dev.json
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\bin\Debug\netcoreapp3.1\C-Sharp Variables Exercise.dll
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\bin\Debug\netcoreapp3.1\C-Sharp Variables Exercise.pdb
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\obj\Debug\netcoreapp3.1\C-Sharp Variables Exercise.csproj.AssemblyReference.cache
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\obj\Debug\netcoreapp3.1\C-Sharp Variables Exercise.AssemblyInfoInputs.cache
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\obj\Debug\netcoreapp3.1\C-Sharp Variables Exercise.AssemblyInfo.cs
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\obj\Debug\netcoreapp3.1\C-Sharp Variables Exercise.csproj.CoreCompileInputs.cache
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\obj\Debug\netcoreapp3.1\C-Sharp Variables Exercise.dll
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\obj\Debug\netcoreapp3.1\C-Sharp Variables Exercise.pdb
+F:\repos\C-Sharp Variables Exercise\C-Sharp Variables Exercise\obj\Debug\netcoreapp3.1\C-Sharp Variables Exercise.genruntimeconfig.cache
